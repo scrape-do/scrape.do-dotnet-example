@@ -3,9 +3,9 @@
 
 ### Web Scraper Api
 * Easily, scalable and high performance proxy rotating [web scraper api](https://scrape.do).
-* 🚀 Created by looking at these sample [documents](https://docs.scrape.do). Please firstly read the documents.
+* 🚀 Please firstly read the [documents](https://docs.scrape.do).
 
-#### You can send request to any webpages with proxy gateway & web api provided by scrape.do. As you can see from the example, this is very easy.
+#### You can send request to any webpages with proxy gateway & web api provided by scrape.do. As you can see from the example, this takes only few lines of code
 
 ### You can see in example ([Program.cs](/Program.cs))
 
