@@ -6,7 +6,7 @@
 
 #### You can send request to any webpages with proxy gateway & web api provided by scrape.do. As you can see from the example, this is very easy.
 
-### You can see in example ([Program.cs](blob/master/Program.cs))
+### You can see in example ([Program.cs](/Program.cs))
 
 ``` C#
 private static string CreateRequestUrl(string targetUrl) {
