@@ -1,8 +1,9 @@
+
 ## Scrape.do C# Example
 
 ### Web Scraper Api
 * Easily, scalable and high performance proxy rotating [web scraper api](https://scrape.do).
-* 🚀 Created by looking at these sample [documents](https://docs.scrape.do).
+* 🚀 Created by looking at these sample [documents](https://docs.scrape.do). Please firstly read the documents.
 
 #### You can send request to any webpages with proxy gateway & web api provided by scrape.do. As you can see from the example, this is very easy.
 
