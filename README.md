@@ -1,5 +1,8 @@
 
 ## Scrape.do C# Example
+<p align="center">
+    <img src="https://scrape.do/images/logo.png" alt="scrape.do" width="200">
+</p>
 
 ### Web Scraper Api
 * Best Rotating Proxy & [Scraping API](https://scrape.do) Alternative.
